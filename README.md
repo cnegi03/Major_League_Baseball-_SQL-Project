@@ -144,7 +144,9 @@ Execute the SQL script:
 final_project_solutions.sql
 Run each section independently to view insights.
 
-**## 📈 Key Outcomes**
+
+
+ 📈 Key Outcomes
 
 Identified long-term salary inflation trends across MLB teams
 
